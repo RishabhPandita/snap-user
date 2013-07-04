@@ -6,7 +6,8 @@ snap-user
 A simple bash script which runs at the startup and captures the face of the user. 
 The captured image is logged and named as the unix time it was captured on.
 
-The same image is set as the pofile picture of the account. 
+The same image is set as the pofile picture of the account.So everytime a user log's in 
+his/her image is set as profile picture.
 
 All the Pictures are captured and stored in a folder which is in /home/yourusername/loggings.
 This enables the admin to keep a track of all the users and in case of any malacious activity 
