@@ -22,7 +22,7 @@ In order to install this
 3) Go to /etc and open rc.local file as root
 
 4) Add the following command just above exit 0
-     sh /home/yourusername/test.sh 
+     sh /home/yourusername/snap-user.sh 
      
 5) Cheers the installations complete.
 
